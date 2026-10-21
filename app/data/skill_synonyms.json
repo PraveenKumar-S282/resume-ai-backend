@@ -1,0 +1,167 @@
+{
+ "javascript": [
+  "js",
+  "ecmascript",
+  "java script"
+ ],
+ "typescript": [
+  "ts"
+ ],
+ "python": [
+  "py"
+ ],
+ "java": [],
+ "c++": [
+  "cpp"
+ ],
+ "c#": [
+  "csharp",
+  "c sharp"
+ ],
+ "sql": [],
+ "mysql": [],
+ "postgresql": [
+  "postgres",
+  "psql"
+ ],
+ "mongodb": [
+  "mongo"
+ ],
+ "sqlite": [],
+ "redis": [],
+ "react": [
+  "react.js",
+  "reactjs",
+  "react js"
+ ],
+ "next.js": [
+  "nextjs",
+  "next js"
+ ],
+ "vue.js": [
+  "vue",
+  "vuejs",
+  "vue js"
+ ],
+ "angular": [
+  "angularjs"
+ ],
+ "node.js": [
+  "node",
+  "nodejs",
+  "node js"
+ ],
+ "flask": [],
+ "django": [],
+ "fastapi": [
+  "fast api"
+ ],
+ "spring boot": [
+  "springboot"
+ ],
+ "html": [
+  "html5"
+ ],
+ "css": [
+  "css3"
+ ],
+ "tailwind css": [
+  "tailwind",
+  "tailwindcss"
+ ],
+ "bootstrap": [],
+ "rest apis": [
+  "rest",
+  "rest api",
+  "restful",
+  "restful api",
+  "restful apis",
+  "rest services"
+ ],
+ "graphql": [],
+ "microservices": [
+  "microservice"
+ ],
+ "jwt": [
+  "json web token",
+  "json web tokens"
+ ],
+ "sqlalchemy": [],
+ "pydantic": [],
+ "git": [],
+ "github": [],
+ "gitlab": [],
+ "docker": [],
+ "kubernetes": [
+  "k8s"
+ ],
+ "ci/cd": [
+  "cicd",
+  "ci cd",
+  "continuous integration"
+ ],
+ "jenkins": [],
+ "aws": [
+  "amazon web services"
+ ],
+ "gcp": [
+  "google cloud",
+  "google cloud platform"
+ ],
+ "azure": [
+  "microsoft azure"
+ ],
+ "linux": [],
+ "machine learning": [
+  "ml"
+ ],
+ "deep learning": [],
+ "nlp": [
+  "natural language processing"
+ ],
+ "tensorflow": [],
+ "pytorch": [],
+ "scikit-learn": [
+  "sklearn",
+  "scikit learn"
+ ],
+ "pandas": [],
+ "numpy": [],
+ "data structures": [
+  "dsa"
+ ],
+ "algorithms": [],
+ "oop": [
+  "object oriented programming",
+  "object-oriented programming"
+ ],
+ "pytest": [],
+ "jest": [],
+ "unit testing": [
+  "unit tests"
+ ],
+ "selenium": [],
+ "agile": [],
+ "scrum": [],
+ "jira": [],
+ "communication": [
+  "communication skills"
+ ],
+ "teamwork": [
+  "team work",
+  "collaboration",
+  "team player"
+ ],
+ "problem solving": [
+  "problem-solving"
+ ],
+ "leadership": [],
+ "golang": [
+  "go",
+  "go lang"
+ ],
+ "express.js": [
+  "express",
+  "expressjs"
+ ]
+}
